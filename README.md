@@ -14,6 +14,7 @@ Adminstrating Repo
   -Getting a deploy key
   -Adding Outside Collaborators
   -Making a repo public
+
 Creating a team
 Creating a machine user
 
@@ -22,6 +23,7 @@ Other Topics
   -Offboarding
   -Concourse
   -Projects
+  -Security/ Minimizing Risk
  
 
 
