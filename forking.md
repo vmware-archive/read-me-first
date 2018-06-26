@@ -21,8 +21,8 @@ If multiple teams are added and creating branches, it may become important for c
 
 There are a couple routes that you could go from here: 
 
-**Team B** could still work within a protected branch of **Team A’s** repo.
-**Team B** could request read access from **Team A** and clone that repo into a new repository within the org.
+1.**Team B** could still work within a protected branch of **Team A’s** repo.
+1.**Team B** could request read access from **Team A** and clone that repo into a new repository within the org.
 
 
 
