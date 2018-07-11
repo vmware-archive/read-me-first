@@ -24,7 +24,7 @@ Under Maintenance
    * Offboarding
    * Concourse
    * Projects
-   * Security/ Minimizing Risk
+   * Security / Minimizing Risk
  
 * Best practices (organization) 
 
