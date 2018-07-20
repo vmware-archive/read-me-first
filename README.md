@@ -3,8 +3,8 @@ Best practices, and how to work in this Org.
 Under Maintenance 
 
 * Getting started
-   * Entering GitHub Username into Okta
-   * Requesting GitHub Tile (include teams you need to be added to)
+   * Gaining Access
+   * Authenticating in the New Org
    * Authorizing a personal access token
 * [Forking in this org](forking.md)
 * Creating a repo
