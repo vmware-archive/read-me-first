@@ -4,7 +4,7 @@ Under Maintenance
 
 * Getting started
    * Gaining Access
-   * Authenticating in the New Org
+   * [Authenticating in the New Org](Authentication.md)
    * Authorizing a personal access token
 * [Forking in this org](forking.md)
 * Creating a repo
