@@ -7,7 +7,7 @@ Under Maintenance
    * [Authenticating in the New Org](Authentication.md)
    * Authorizing a personal access token
 * [Forking in this org](forking.md)
-* Creating a repo
+* [Creating a repo](creating-repo.md)
   * Naming convention (tags, cloning names, etc)
   * Repos with secrets
 * Adminstrating Repo
