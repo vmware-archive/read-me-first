@@ -1,4 +1,4 @@
-__Creating a Repository__
+# __Creating a Repository__
 
 In the new /Pivotal org, Pivotal team members are now able to create their own repos. 
 
