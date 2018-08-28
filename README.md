@@ -17,7 +17,7 @@ Best practices, and how to work in this Org.
    * Adding Outside Collaborators
    * Making a repo public
 
-* Creating a team
+* [Creating a team](Creating a Team.md)
 * Creating a machine user
 
 * Other Topics
