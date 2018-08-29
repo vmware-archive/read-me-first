@@ -18,7 +18,7 @@ Best practices, and how to work in this Org.
    * Making a repo public
 
 * [Creating a team](Creating-a-Team.md)
-* Creating a machine user
+* Machine users vs Deploy Keys
 
 * Other Topics
    * GIT LFS
