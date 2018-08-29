@@ -9,7 +9,7 @@ Best practices, and how to work in this Org.
    * [Authorizing a personal access token](Authorizing-Personal-Access-Token.md)
 * [Forking in this org](forking.md)
 * [Creating a repo](creating-repo.md)
-  * Naming convention (tags, cloning names, etc)
+  * [Naming convention (tags, cloning names, etc)](Naming-Convention.md)
   * Repos with secrets
 * Adminstrating Repo
    * Adding Collaborators
