@@ -22,7 +22,7 @@ Best practices, and how to work in this Org.
 
 * Other Topics
    * GIT LFS
-   * [Offboarding](Offboarding.md)
+   * [Offboarding](offboarding.md)
    * Concourse
    * Projects
    * Security / Minimizing Risk
