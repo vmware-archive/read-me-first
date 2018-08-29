@@ -6,7 +6,7 @@ Best practices, and how to work in this Org.
 * Getting started
    * Gaining Access
    * [Authenticating in the New Org](Authentication.md)
-   * Authorizing a personal access token
+   * [Authorizing a personal access token](Authorizing-Personal-Access-Token.md)
 * [Forking in this org](forking.md)
 * [Creating a repo](creating-repo.md)
   * Naming convention (tags, cloning names, etc)
