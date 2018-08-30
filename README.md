@@ -12,7 +12,7 @@ Best practices, and how to work in this Org.
 * [Creating a repo](creating-repo.md)
   * [Naming convention (tags, cloning names, etc)](Naming-Convention.md)
   * Repos with secrets
-### Adminstrating Repo
+### Adminstrating a Repo
    * Adding Collaborators
    * Getting a deploy key
    * [Adding Outside Collaborators](adding-outside-collaborators.md)
