@@ -1,12 +1,15 @@
-__Overview__ 
+# Authentication
+
+
+## Overview 
 
 To improve security and diminish delays in access, the new Pivotal Org is now SAML authenticated.  What does this mean? In the vast majority of cases, you should not see any significant change to how you have interacted with your past orgs.  The biggest changes you will see depend on how you are trying to access the system.
 
-__Authenticating through the UI__
+## Authenticating through the UI
 
 Initially, all users will need to authenticate their account through the GitHub UI by having an active Okta session in their browser.  Once you have done this, you will need to re-authenticate every 24 hours, as the Okta session needs to be active in your browser to use GitHub’s UI.
 
-__Authenticating through the command line__
+## Authenticating through the command line
 
 Day to day, we know many of you operate with GitHub solely through the command line, and fortunately very little will change with how this works.  If you are not currently aware how to generate a Personal Access Token or 
 
