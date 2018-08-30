@@ -15,7 +15,7 @@ Best practices, and how to work in this Org.
 * Adminstrating Repo
    * Adding Collaborators
    * Getting a deploy key
-   * Adding Outside Collaborators
+   * [Adding Outside Collaborators](adding-outside-collaborators.md)
    * Making a repo public
 
 * [Creating a team](Creating-a-Team.md)
