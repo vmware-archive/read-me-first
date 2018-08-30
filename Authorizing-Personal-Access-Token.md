@@ -4,4 +4,4 @@ If you need to authorize a personal access token, please follow GitHub’s instr
 
 [Authorizing a Personal Access Token](https://help.github.com/articles/authorizing-a-personal-access-token-for-use-with-a-saml-single-sign-on-organization/)
 
-If you have any questions or concerns, please reach out to ask@pivotal.io
+If you have any questions or concerns, please reach out to the admin team by filing an ask ticket.
