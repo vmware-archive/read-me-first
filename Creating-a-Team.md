@@ -2,7 +2,7 @@
 
 If you would like to create a team, the GitHub Admins would be more than happy to do that for you! 
 
-**To create a team**, please reach out to ask@pivotal.io requesting your team be created and include: 
+**To create a team**, please file an ask ticket requesting your team be created and include: 
 
 1. Team name
 2. If, and where, that team should be nested
