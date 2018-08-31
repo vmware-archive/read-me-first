@@ -4,7 +4,7 @@ Best practices, and how to work in this Org.
 *__Under Maintenance__*
 
 ### Getting started
-   * Gaining Access
+   * [Gaining Access](gaining-access.md)
    * [Authenticating in the New Org](Authentication.md)
    * [Authorizing a personal access token](Authorizing-Personal-Access-Token.md)
    * [Authorizing an SSH Key](Authorizing-ssh-key.md)
