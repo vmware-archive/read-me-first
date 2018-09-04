@@ -29,8 +29,7 @@ Best practices, and how to work in this Org.
    * GIT LFS
    * [Offboarding](offboarding.md)
    * Concourse
-   * Projects
    * Security / Minimizing Risk
  
-* Best practices (organization) 
+### Best practices (organization) 
 
