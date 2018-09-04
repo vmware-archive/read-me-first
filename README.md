@@ -13,7 +13,7 @@ Best practices, and how to work in this Org.
 * [Creating a repo](creating-repo.md)
   * [Naming convention (tags, cloning names, etc)](Naming-Convention.md)
   * Repos with secrets
-* Adding Collaborators
+* [Adding Collaborators](adding-collaborators.md)
    * [Adding Outside Collaborators](adding-outside-collaborators.md)
 * Making a repo public
 
