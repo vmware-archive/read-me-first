@@ -9,17 +9,17 @@ Best practices, and how to work in this Org.
    * [Authorizing a personal access token](Authorizing-Personal-Access-Token.md)
    * [Authorizing an SSH Key](Authorizing-ssh-key.md)
 
+### Repositories - Creation and Administration
 * [Creating a repo](creating-repo.md)
   * [Naming convention (tags, cloning names, etc)](Naming-Convention.md)
   * Repos with secrets
-### Adminstrating a Repo
-   * Adding Collaborators
-   * Getting a deploy key
+* Adding Collaborators
    * [Adding Outside Collaborators](adding-outside-collaborators.md)
-   * Making a repo public
+* Making a repo public
 
 * [Creating a team](Creating-a-Team.md)
 * Machine users vs Deploy Keys
+* Getting a deploy key
 
 ### Other Topics
    * [Forking in this org](forking.md)
