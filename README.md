@@ -17,7 +17,10 @@ Best practices, and how to work in this Org.
    * [Adding Outside Collaborators](adding-outside-collaborators.md)
 * Making a repo public
 
+### Teams
 * [Creating a team](Creating-a-Team.md)
+
+### Machine Users and Deploy Keys
 * Machine users vs Deploy Keys
 * Getting a deploy key
 
