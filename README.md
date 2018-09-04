@@ -9,7 +9,7 @@ Best practices, and how to work in this Org.
       * [Authorizing a personal access token](Authorizing-Personal-Access-Token.md)
       * [Authorizing an SSH Key](Authorizing-ssh-key.md)
 
-### Repositories - Creation and Administration
+### Repositories
 * [Creating a repo](creating-repo.md)
   * [Naming convention (tags, cloning names, etc)](Naming-Convention.md)
   * Repos with secrets
@@ -20,7 +20,7 @@ Best practices, and how to work in this Org.
 ### Teams
 * [Creating a team](Creating-a-Team.md)
 
-### Machine Users and Deploy Keys
+### Machine Users / Deploy Keys
 * Machine users vs Deploy Keys
 * Getting a deploy key
 
