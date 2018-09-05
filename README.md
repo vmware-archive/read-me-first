@@ -15,7 +15,7 @@ Best practices, and how to work in this Org.
   * Repos with secrets
 * [Adding Collaborators](adding-collaborators.md)
    * [Adding Outside Collaborators](adding-outside-collaborators.md)
-* Making a repo public
+* [Making a repo public](making-a-repo-public.md)
 
 ### Teams
 * [Creating a team](Creating-a-Team.md)
