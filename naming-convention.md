@@ -21,4 +21,4 @@ Another way you are able to help organize your repositories, and consequently ou
 
 Ideal Repo Name: 
 
-[team name]-[tool/project name], i.e. IPS-Panorama
+[team name]-[tool/project name], i.e. ips-panorama
