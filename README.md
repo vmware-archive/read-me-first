@@ -19,6 +19,7 @@ Best practices, and how to work in this Org.
 
 ### Teams
 * [Creating a team](Creating-a-Team.md)
+* Team Maintainer Responsibilities
 
 ### Machine Users / Deploy Keys
 * Machine users vs Deploy Keys
