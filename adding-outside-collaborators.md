@@ -9,7 +9,7 @@ If you would like to add an outside collaborator to any repository you manage pl
 - Name of the repository
 - Name of the individual you are requesting access for
 - Username of the individual
-- Level of access you would like them to have (Admin, Write, Read)
+- Level of access you would like them to have (Admin, Write, or Read)
 - Reason for requesting access
 - Company affiliation
 - If the company/individual has signed a Source Code Access Agreement
