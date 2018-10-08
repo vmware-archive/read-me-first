@@ -1,4 +1,4 @@
-# Read-Me-First
+# Read Me First
 Best practices, and how to work in this Org. 
 
 *__Under Maintenance__*
@@ -15,10 +15,11 @@ Best practices, and how to work in this Org.
   * Repos with secrets
 * [Adding Collaborators](adding-collaborators.md)
    * [Adding Outside Collaborators](adding-outside-collaborators.md)
-* [Making a repo public](making-a-repo-public.md)
+* [Making a repo public (OSS)](making-a-repo-public.md)
 
 ### Teams
 * [Creating a team](Creating-a-Team.md)
+* Team Maintainer Responsibilities
 
 ### Machine Users / Deploy Keys
 * Machine users vs Deploy Keys
@@ -29,7 +30,7 @@ Best practices, and how to work in this Org.
    * GIT LFS
    * [Offboarding](offboarding.md)
    * Concourse
-   * Security / Minimizing Risk
+   * [Security / Minimizing Risk](security.md) 
  
 ### Best practices (organization) 
 
