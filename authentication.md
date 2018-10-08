@@ -11,7 +11,7 @@ Initially, all users will need to authenticate their account through the GitHub 
 
 ### Authenticating through the command line
 
-Day to day, we know many of you operate with GitHub solely through the command line, and fortunately very little will change with how this works.  If you are not currently aware how to generate a Personal Access Token for Github, please [their guide on generating Personal Access Tokens](https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/) 
+Day to day, we know many of you operate with GitHub solely through the command line, and fortunately very little will change with how this works.  If you are not currently aware how to generate a Personal Access Token for Github, please see their guide on [generating Personal Access Tokens](https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/) 
 
 The major difference is,  now need to initially authorize your Personal Access token for the /Pivotal org (you may create a new one, or authorize an existing key for the new, SAML authenticated org).  Instructions on how to authorize a Personal Access token can be found here: [Authorizing a personal access token for use with a SAML single sign-on organization](https://help.github.com/articles/authorizing-a-personal-access-token-for-use-with-a-saml-single-sign-on-organization/).
 
