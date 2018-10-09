@@ -30,4 +30,4 @@ When working, please keep these things in mind:
     * Security related configuration
     * Known security gaps & future enhancements
 
-If you ever have any questions about security, or anything else within this org, please don't hesitate to reach out to the admin team via an ask ticket.
+_If you ever have any questions about security, or anything else within this org, please don't hesitate to reach out to the admin team via an ask ticket._
