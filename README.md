@@ -22,7 +22,7 @@ Best practices, and how to work in this Org.
 * Team Maintainer Responsibilities
 
 ### Machine Users / Deploy Keys
-* Machine users vs Deploy Keys
+* [Machine users vs Deploy Keys](machine-users-deploy-keys.md)
 * Getting a deploy key
 
 ### Other Topics
