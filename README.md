@@ -19,7 +19,7 @@ Best practices, and how to work in this Org.
 
 ### Teams
 * [Creating a Team](creating-a-team.md)
-* [Team Maintainer Responsibilities](https://help.github.com/articles/repository-permission-levels-for-an-organization/#team-maintainers)
+* [Team Maintainer Responsibilities](team-maintainer-responsibilities.md)
 
 ### Machine Users / Deploy Keys
 * [Machine Users vs Deploy Keys](machine-users-deploy-keys.md)
