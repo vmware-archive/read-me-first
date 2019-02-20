@@ -33,7 +33,7 @@ Best practices, and how to work in this Org.
    * [Security / Minimizing Risk](security.md) 
    
 ### Feedback
-   * How to submit feedback
+   * [How to submit feedback](feedback.md)
  
 ### Best practices (organization) 
 
