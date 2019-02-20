@@ -31,6 +31,9 @@ Best practices, and how to work in this Org.
    * [Offboarding](offboarding.md)
    * Concourse
    * [Security / Minimizing Risk](security.md) 
+   
+### Feedback
+   * How to submit feedback
  
 ### Best practices (organization) 
 
