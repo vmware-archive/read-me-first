@@ -17,8 +17,8 @@ We ask that you tag your repo with the following information:
 
 ## Repo Names
 
-Another way you are able to help organize your repositories, and consequently our org, is to include pieces of information in your repo title.
+While we don't want to enforce any type of naming convention, if you choose, another way you are able to help organize your repositories, and consequently our org, is to include pieces of information in your repo title.
 
-Ideal Repo Name: 
+An example of an ddeal repo name is: 
 
 [team name]-[tool/project name], i.e. ips-panorama
