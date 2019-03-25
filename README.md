@@ -11,7 +11,7 @@ Best practices, and how to work in this Org.
 
 ### Repositories
 * [Creating a Repo](creating-repo.md)
-  * [Naming Convention (tags, cloning names, etc)](naming-convention.md)
+  * [Organization Conventions (tags, names, etc)](organization-convention.md)
   * [Repos With Secrets](repos-with-secrets.md)
 * [Adding Collaborators](adding-collaborators.md)
    * [Adding Outside Collaborators](adding-outside-collaborators.md)
