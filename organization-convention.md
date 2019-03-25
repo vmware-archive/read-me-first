@@ -1,4 +1,4 @@
-# Organizing Conventions
+# Organization Conventions
 
 In order to ensure that our org is as organized as possible, we are asking anyone that creates a repo to indicate what product and team it belongs to in the form of tags, or "topics".
 
