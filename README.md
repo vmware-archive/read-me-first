@@ -16,6 +16,7 @@ Best practices, and how to work in this Org.
 * [Adding Collaborators](adding-collaborators.md)
    * [Adding Outside Collaborators](adding-outside-collaborators.md)
 * [Making a Repo Public (OSS)](making-a-repo-public.md)
+   * [Pivotal Incubator (OSS)](pivotal-incubator.md)
 * [Archiving Repositories](archiving-repos.md)
 
 ### Teams
