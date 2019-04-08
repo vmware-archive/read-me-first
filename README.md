@@ -32,7 +32,8 @@ Best practices, and how to work in this Org.
    * GIT LFS
    * [Offboarding](offboarding.md)
    * Concourse
-   * [Security / Minimizing Risk](security.md) 
+   * [Security / Minimizing Risk](security.md)
+   * [Watching Repos](watching-repos.md) 
    
 ### Feedback
    * [How to submit feedback](feedback.md)
